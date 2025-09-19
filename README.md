@@ -25,16 +25,6 @@ It is designed to support decision-making for sales managers and business stakeh
 - Tabular view combining **customer details, order IDs, products, discounts, promotions, profit, and sales**.  
 - Slicers for **Customer Name, Product Name, Promotion Name, and Date Range** allow deeper drilldown and filtering.  
 - Acts as a **data exploration hub** for advanced analysis.
-- 
-## 📷 Sample Screenshots
-### City-wise Net Sales & Total Orders
-![City Sales](./images/p2.png)
-
-### Profit Comparison with Date Filters
-![Profit Comparison](./images/p3.png)
-
-### Detailed Transaction Table with Slicers
-![Transaction Table](./images/p6.png)
 
 ## 📂 Project Files
 - `Sales Data Project.pbix` → Power BI file
